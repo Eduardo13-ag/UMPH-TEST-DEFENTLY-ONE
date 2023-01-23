@@ -33,7 +33,7 @@ words = [
     "¿Cual es la fecha para terminar el proceso de inscripcion al servicio medico?","NR",
     "¿En caso de un posible caso de Covid 19?,¿cual es el protocolo de ermergencia?","NR",
     #Talleres
-    "¿Que talleres hay?","NR",
+    "¿Que talleres hay?","Baile de salon, Danza folklorica, Baile HIp-Hop, Danza Jaz, Lirico, Caligrafia, Artes plasticas, Oratoria, Canto, Guitarra, Dibujo a lapiz, Teatro, Ballet Clasico, Boleiball Bascketball, Futbol soccer, Futbol 7, Acondicionamiento fisico, Ajedrez, Pilates, Porristas, Tae kwon Do, Futbol americano",
     "¿Para que cuatrimestres estas disponibles los talleres?","NR",
     "¿Cuales son las fechas de inscripción?","NR",
     "¿Cual es el proseso de inscripcion a los talleres?","NR",
@@ -76,7 +76,7 @@ app = Flask(__name__)
 @app.route('/', methods=["GET", "POST"])
 def index():
     usermess = request.form.get("message")
-    response = bot.get_response(usermess)
+    response = bot.get_response(usermess) 
 
 
     # DATA --- (Dictionary)
