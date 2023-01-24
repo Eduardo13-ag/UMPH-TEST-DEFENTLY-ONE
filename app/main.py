@@ -33,7 +33,6 @@ words = [
     "¿Cual es la fecha para terminar el proceso de inscripcion al servicio medico?","NR",
     "¿En caso de un posible caso de Covid 19?,¿cual es el protocolo de ermergencia?","NR",
     #Talleres
-<<<<<<< HEAD
     "¿Que talleres hay?","Baile de salon, Danza folklorica, Baile HIp-Hop, Danza Jaz, Lirico, Caligrafia, Artes plasticas, Oratoria, Canto, Guitarra, Dibujo a lapiz, Teatro, Ballet Clasico, Boleiball Bascketball, Futbol soccer, Futbol 7, Acondicionamiento fisico, Ajedrez, Pilates, Porristas, Tae kwon Do, Futbol americano",
     "¿Para que cuatrimestres estas disponibles los talleres?","NR",
     "¿Cuales son las fechas de inscripción?","NR",
@@ -46,13 +45,12 @@ words = [
     "¿Como puedo abandonar mi taller?","NR",
     "¿Puedo escoger un horario para los talleres?","NR",
     "¿Que pasaria si se cruzan los talleres con mis clases?","NR",
-=======
     "¿Que talleres hay?","",
-    "¿Para qué cuatrimestres estas disponibles los talleres?”, “Los talleres están habilitados para primero, segundo y tercer cuatrimestre",
+    "¿Para qué cuatrimestres estas disponibles los talleres?", "Los talleres están habilitados para primero, segundo y tercer cuatrimestre",
     "¿Cuáles son las fechas de inscripción?", "Las fechas suelen ser la tercera semana de clase",
-    "¿Cuál es el proceso de inscripción a los talleres?”, “Para cuando llegue la fecha un apartado en tu metrón llamado 'talleres' aparecería en donde aparecerá una lista de los talleres para que puedas escoger y confirmar cual taller quiere",
+    "¿Cuál es el proceso de inscripción a los talleres?", "Para cuando llegue la fecha un apartado en tu metrón llamado 'talleres' aparecería en donde aparecerá una lista de los talleres para que puedas escoger y confirmar cual taller quiere",
     "¿Los talleres son obligatorios?", "Sí, así como acreditarlos es igualmente necesarios",
-    "¿Solo puedo tomar un taller por cuatrimestres?”, “No necesariamente puedes consultar con XX para más información",
+    "¿Solo puedo tomar un taller por cuatrimestres?", "No necesariamente puedes consultar con XX para más información",
     "¿Puedo iniciar mi propio taller?", "Sí, pero hay todo un protocolo para poder crear uno, pregunta a XX para más información",
     "¿Como puedo cambiar de taller?", "El cambio de taller esta hábil los primeros días que las actividades de taller empiecen, sin embargo, por situaciones extraordinarias es posible cambiar terminando un corte",
     "¿Se agregan más talleres?", "Por el momento no",
@@ -60,7 +58,6 @@ words = [
     "¿Puedo escoger un horario para los talleres?", "No, todos los talleres ya tienen un horario definido, así que escoge uno que no se cruce con tus clases",
     "¿Que pasaría si se cruzan los talleres con mis clases?", "deberás solicitar un cambio de taller los primeros días, para que esto no afecte a tus clases. Intente escoger desde el inicio un taller que no se cruce con ninguna de tus clases ",
 
->>>>>>> 457b621882f59415f181919bb397759d87e6059c
     #Cordinacion de Idiomas
     "¿Habra nuevos idiomas en un futuro?","NR",
     "¿Cuales son los idiomas disponibles?","NR",
